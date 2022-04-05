@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wanderleyjunior/">
-  <img src="https://miro.medium.com/max/700/1*slHeZngyeUr7ypEz7MNL5w.png" alt="https://www.linkedin.com/in/wanderleyjunior/" width="400" title="Projeto Python Django">
+  <img src="https://thumbs.dreamstime.com/b/face-do-rel%C3%B3gio-do-vetor-tempo-f%C3%A1cil-da-mudan%C3%A7a-33264106.jpg" alt="https://www.linkedin.com/in/wanderleyjunior/" width="400" title="Projeto Python Django">
 </a>  
 </p>
 
